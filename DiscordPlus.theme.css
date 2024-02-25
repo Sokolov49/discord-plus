@@ -18,12 +18,12 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://cdn.discordapp.com/attachments/327443498234150912/1211382099878092821/forest.png?ex=65edfe7f&is=65db897f&hm=32e9b4a1bd426e80b7b23b7b76c3092b359d708fddd13082383af5d80e81a550&);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 358;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 65%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
-  --dplus-font-body: 'Roboto';
-  --dplus-font-header: 'Righteous';
+  --dplus-font-ui: 'Ring singularity';
+  --dplus-font-body: 'Gray+Red';
+  --dplus-font-header: 'Gray+Red';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
